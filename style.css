@@ -11,3 +11,15 @@ body {
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0, 0.1)
 }
+div {
+  border: 1px solid orange
+}
+h1 {
+  color: green
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
