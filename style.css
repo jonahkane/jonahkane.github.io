@@ -3,7 +3,7 @@ body {
   background-color: black;
   color: black;
   font-family: Arial, sans-serif;
-  margin: 10% 10%;
+  margin: 5% 5%;
   padding-left: 0px;
   
 }
@@ -14,9 +14,6 @@ body {
 div {
   border: 5px solid orange;
   padding-left: 5px;
-}
-h1 {
-  color: green;
 }
 .office {
   display: block;
@@ -30,7 +27,7 @@ h1 {
   padding-right: 50px;
   margin-left: 100px;
   float: right;
-  margin: 1%;
+  margin: 0.5%;
   
 }
 table, th, td {
