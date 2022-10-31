@@ -1,25 +1,29 @@
 body {
+    background-image: url("https://landing.adobe.com/dam/2017/images/374113-edu-resume-template.marquee-background-image.1440x888.jpg");
   background-color: black;
   color: white;
   font-family: Arial, Helvetic, sans-serif;
-  margin: 10% 20%;
+  margin: 0% 0%;
+  padding-left: 50px;
 }
 .exp-header {
-  text-align: center
+  text-align: center;
   text-transform: uppercase;
   border-top: 10px solid red;
   border-bottom: 10px solid purple;
-  background-color: rgba(0,0,0, 0.1)
+  background-color: rgba(0,0,0, 0.1);
 }
 div {
-  border: 5px solid orange
+  border: 5px solid orange;
+  padding-left: 10px;
 }
 h1 {
-  color: green
+  color: green;
 }
-.center {
+.office {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 20px;
   width: 75%;
 }
